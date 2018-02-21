@@ -1,0 +1,39 @@
+/* add your CSS here */
+
+body {
+  font-family: 'Raleway', sans-serif;;
+  color: #141512;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  line-height: 1.2
+}
+
+
+
+#container {
+  width: 300px;
+  padding: 7px 15px 20px 15px;
+  border: 1px solid #D4D4D4;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, .2);
+  margin: 0 auto;
+  border-radius: 5px;
+  background-color: #E6EBCA;
+}
+
+#info-box {
+  border: 1px solid #CFD8DC;
+  padding: 10px;
+  margin-top: 7px;
+  background-color: #a5a891;
+}
+
+#intro {
+  font-style: italic;
+}
+
+.item {
+  font-weight: bold;
+}
